@@ -4,6 +4,6 @@
 
 ### Screen 2 ![Screen2](https://i.ibb.co/nBbjVR5/calculator2.png)
 
-### Screen 3 ![Screen3]https://i.ibb.co/wCBcQpx/calculator4.png)
+### Screen 3 ![Screen3](https://i.ibb.co/DRdhFGM/clacultor3.png)
 
-### Screen 4 ![Screen4](https://i.ibb.co/DRdhFGM/clacultor3.png)
+### Screen 4 ![Screen4](https://i.ibb.co/wCBcQpx/calculator4.png)
